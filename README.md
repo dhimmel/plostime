@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.19117.svg)](http://dx.doi.org/10.5281/zenodo.19117)
+
 # Publication and acceptance times for journals with a focus on PLOS
 
 This repository investigates the delays involved with scientific journal publications. The focus is on PLOS journals and other open access bioinformatics journals. This repository is home to the analyses for the blog post "[Publication delays at PLOS and 3,475 other journals](http://blog.dhimmel.com/plos-and-publishing-delays/)".
